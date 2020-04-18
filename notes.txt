@@ -1,1 +1,3 @@
 https://medium.com/swlh/how-to-host-your-next-js-application-for-free-on-heroku-c6ba99ebb8b8
+
+push to github, then manually deploy from heroku website
